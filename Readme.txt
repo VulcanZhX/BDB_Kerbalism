@@ -1,0 +1,1 @@
+这个插件改进了Kerbalism对BDB部分组件的支持，使用时将其中内容解压到GameData即可。
